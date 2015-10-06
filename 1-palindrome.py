@@ -12,3 +12,4 @@ class LibTest(unittest.TestCase):
         self.assertEqual(lib.palindrome("shkhs"), True)
 
 unittest.main(verbosity=2)
+

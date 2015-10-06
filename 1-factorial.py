@@ -13,3 +13,4 @@ class LibTest(unittest.TestCase):
         self.assertEqual(lib.factorial(-1), 1)
 
 unittest.main(verbosity=2)
+

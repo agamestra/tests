@@ -23,3 +23,4 @@ class LibTest(unittest.TestCase):
         self.assertEqual(lib.prime(6), False)
 
 unittest.main(verbosity=2)
+

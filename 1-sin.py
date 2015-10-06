@@ -16,3 +16,4 @@ class LibTest(unittest.TestCase):
         self.assertEqual(lib.sin(-math.pi/2), -1)
 
 unittest.main(verbosity=2)
+
